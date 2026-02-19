@@ -19,18 +19,8 @@ This project automates scraping articles from the Opinion section of El País us
 
 ## Project Structure
 
-BrowserStack/
-│
-├── src/
-│   ├── main.py
-│   ├── translator.py
-│   ├── analyzer.py
-│
-├── images/
-│
-├── requirements.txt
-├── README.md
-└── .env
+<img width="315" height="366" alt="image" src="https://github.com/user-attachments/assets/44203346-093b-4ab0-bbd0-d4c2437f6d25" />
+
 
 
 ## Sample output after running the script.
