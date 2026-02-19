@@ -19,14 +19,14 @@ This project automates scraping articles from the Opinion section of El País us
 
 ## Project Structure
 
-BrowserStack
+BrowserStack/
 │
-├── src
+├── src/
 │   ├── main.py
 │   ├── translator.py
 │   ├── analyzer.py
 │
-├── images
+├── images/
 │
 ├── requirements.txt
 ├── README.md
